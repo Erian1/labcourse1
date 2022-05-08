@@ -1,0 +1,126 @@
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buton\Desktop\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\UBT\Semestri 4\Lenda Laboratorike 1 (Programim)\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\erian\Desktop\labcourse1\LabCourse1\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\erian\Desktop\labcourse1\Back-End\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
